@@ -69,3 +69,19 @@ ng serve --open
 ## 3 Angular Básico de Template, IF e FOR #03
 
 link vídeo:https://www.youtube.com/watch?v=DC9EIo_U3mo
+
+Listar Carros
+
+## 4 Angular Componentes da Tela Principal do Netflix Clone #04
+
+link vídeo:https://www.youtube.com/watch?v=-LwGgIOEvCM
+
+Clonar repositório: https://github.com/hcodebr/netflix-layout-clone
+
+### Instalar o Bootstrap
+
+```console
+npm install bootstrap
+```
+
+Apontar o arquivo do bootstrap no Css
