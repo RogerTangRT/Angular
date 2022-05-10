@@ -39,3 +39,10 @@ ng new hcode
 ```
 
 Seleciona Y e o tipo de CSS como SCSS
+
+Para iniciar o projeto. O parâmetro --open abre o chome automaticamene
+
+```console
+cd hcode
+ng serve --open
+```
