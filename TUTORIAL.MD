@@ -32,7 +32,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 Set-ExecutionPolicy -Scope CurrentUser
 ```
 
-Criando projeto hcode
+## Criando projeto hcode
 
 ```console
 ng new hcode
@@ -45,4 +45,10 @@ Para iniciar o projeto. O parâmetro --open abre o chome automaticamene
 ```console
 cd hcode
 ng serve --open
+```
+
+## Criando projeto netflix
+
+```console
+ng new netflix
 ```
