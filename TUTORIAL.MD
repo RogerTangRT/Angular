@@ -1,8 +1,10 @@
 # TUTORIAL
 
-## Instalar o Angular
+## 1 Angular Instalando o Angular CLI e criando o primeiro projeto #01
 
 link vídeo: https://www.youtube.com/watch?v=xqWovo6Enq0
+
+###Instalar o Angular
 
 Para instalar o Angular
 https://angular.io/cli
@@ -32,7 +34,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 Set-ExecutionPolicy -Scope CurrentUser
 ```
 
-## Criando projeto hcode
+### Criando projeto hcode
 
 ```console
 ng new hcode
@@ -47,8 +49,23 @@ cd hcode
 ng serve --open
 ```
 
-## Criando projeto netflix
+## 2 Angular Estrutura do Projeto Netflix Clone #02
+
+link vídeo:https://www.youtube.com/watch?v=tJBzKgh-qGM
+
+###Criando projeto netflix
 
 ```console
 ng new netflix
 ```
+
+Para iniciar o projeto. O parâmetro --open abre o chome automaticamene
+
+```console
+cd netflix
+ng serve --open
+```
+
+## 3 Angular Básico de Template, IF e FOR #03
+
+link vídeo:https://www.youtube.com/watch?v=DC9EIo_U3mo
