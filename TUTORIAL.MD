@@ -4,7 +4,7 @@
 
 link vídeo: https://www.youtube.com/watch?v=xqWovo6Enq0
 
-###Instalar o Angular
+### Instalar o Angular
 
 Para instalar o Angular
 https://angular.io/cli
@@ -53,7 +53,7 @@ ng serve --open
 
 link vídeo:https://www.youtube.com/watch?v=tJBzKgh-qGM
 
-###Criando projeto netflix
+### Criando projeto netflix
 
 ```console
 ng new netflix

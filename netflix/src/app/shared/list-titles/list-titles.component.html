@@ -4,10 +4,7 @@
 
     <div class="d-flex flex-nowrap overflow-hidden">
 
-        <app-title></app-title>
-        <app-title></app-title>
-        <app-title></app-title>
-        <app-title></app-title>
+        <app-title *ngFor= "let title of listTitles" [title]="title"></app-title>
 
     </div>
 
