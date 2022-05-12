@@ -49,4 +49,8 @@ export class AppComponent {
   {
       this.menuOpened = state;
   }
+  closeMenu()
+  {
+    this.menuOpened = false;
+  }
 }
