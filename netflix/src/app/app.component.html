@@ -1,4 +1,5 @@
-<app-nav-bar></app-nav-bar>
+<app-nav-bar (menuToggle)="setMenuState($event)"></app-nav-bar>
+
 <div class="content-fluid">
 
     <app-full-banner></app-full-banner>
@@ -10,3 +11,5 @@
 </div>
 
 <app-footer></app-footer>
+
+<div class="backdrop" *ngIf="menuOpened"></div>
