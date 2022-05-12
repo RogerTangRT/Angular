@@ -128,3 +128,7 @@ ng g c shared\tittle
 ## 5 Angular Propriedades dos Componentes #05
 
 link vídeo:https://www.youtube.com/watch?v=x1PsqSbWUoo
+
+## 6 Angular Ligando os Eventos do Nosso Netflix Clone #06
+
+link vídeo:https://www.youtube.com/watch?v=hkIP4mElQic
