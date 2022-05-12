@@ -85,3 +85,32 @@ npm install bootstrap
 ```
 
 Apontar o arquivo do bootstrap no Css
+
+### Instalar componente FullBanner
+
+Na pasta netflix
+Para criar o componente FullBanner na pasta shared
+
+```console
+ng generate component shared\FullBanner
+```
+
+### Instalar componente ListTitles
+
+Na pasta netflix
+Para criar o componente ListTitles na pasta shared.
+É possível substituir generate por g e component por c
+
+```console
+ng g c shared\ListTitles
+```
+
+### Instalar componente Footer
+
+Na pasta netflix
+Para criar o componente Footer na pasta shared.
+É possível substituir generate por g e component por c
+
+```console
+ng g c shared\Footer
+```
