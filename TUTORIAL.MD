@@ -124,3 +124,7 @@ Para criar o componente Tittle na pasta shared.
 ```console
 ng g c shared\tittle
 ```
+
+## 5 Angular Propriedades dos Componentes #05
+
+link vídeo:https://www.youtube.com/watch?v=x1PsqSbWUoo

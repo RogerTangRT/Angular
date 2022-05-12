@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-list-titles',
@@ -7,7 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListTitlesComponent implements OnInit {
 
-  constructor() { }
+  @Input() title: string | undefined;
+  constructor() {
+   }
 
   ngOnInit(): void {
   }
