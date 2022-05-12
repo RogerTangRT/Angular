@@ -114,3 +114,13 @@ Para criar o componente Footer na pasta shared.
 ```console
 ng g c shared\Footer
 ```
+
+### Instalar componente Tittle
+
+Na pasta netflix
+Para criar o componente Tittle na pasta shared.
+É possível substituir generate por g e component por c
+
+```console
+ng g c shared\tittle
+```
