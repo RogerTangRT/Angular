@@ -11,7 +11,7 @@ export class AppComponent {
 
   listTitles = 
   [
-    { treiler:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+    { trailer:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
       cover:'assets/images/guardios-da-galaxia.jpg' ,
       name:'Guardiões da Galaxia',
       relevance:98,
@@ -19,7 +19,7 @@ export class AppComponent {
       parts:2,
       categories:['Épico','Filme de fantasia','Viagem no espaço']
     },
-    { treiler:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+    { trailer:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
       cover:'assets/images/guardios-da-galaxia.jpg' ,
       name:'Guardiões da Galaxia 2',
       relevance:80,
@@ -27,7 +27,7 @@ export class AppComponent {
       parts:2,
       categories:['Épico','Filme de fantasia','Viagem no espaço']
     },
-    { treiler:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+    { trailer:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
       cover:'assets/images/guardios-da-galaxia.jpg' ,
       name:'Guardiões da Galaxia 3',
       relevance:55,
@@ -35,7 +35,7 @@ export class AppComponent {
       parts:2,
       categories:['Épico','Filme de fantasia','Viagem no espaço']
     },
-    { treiler:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+    { trailer:'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
       cover:'assets/images/guardios-da-galaxia.jpg' ,
       name:'Guardiões da Galaxia 4',
       relevance:55,

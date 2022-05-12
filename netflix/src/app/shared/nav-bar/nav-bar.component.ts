@@ -18,7 +18,7 @@ export class NavBarComponent implements OnInit
 
     }
     ngOnInit(): void {
-        throw new Error("Method not implemented.");
+
     }
 
     toggle()
