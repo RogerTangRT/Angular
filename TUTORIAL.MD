@@ -132,3 +132,7 @@ link vídeo:https://www.youtube.com/watch?v=x1PsqSbWUoo
 ## 6 Angular Ligando os Eventos do Nosso Netflix Clone #06
 
 link vídeo:https://www.youtube.com/watch?v=hkIP4mElQic
+
+É necesário mutar o video ao iniciar
+
+https://stackoverflow.com/questions/49930680/how-to-handle-uncaught-in-promise-domexception-play-failed-because-the-use

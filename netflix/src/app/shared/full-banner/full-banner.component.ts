@@ -1,15 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-full-banner',
-  templateUrl: './full-banner.component.html',
-  styleUrls: ['./full-banner.component.scss']
+	selector: 'app-full-banner',
+	templateUrl: './full-banner.component.html',
+	styleUrls: ['./full-banner.component.scss']
 })
 export class FullBannerComponent implements OnInit {
 
-  constructor() { }
+	constructor() { }
 
-  ngOnInit(): void {
-  }
-
+	ngOnInit(): void {
+	}
 }

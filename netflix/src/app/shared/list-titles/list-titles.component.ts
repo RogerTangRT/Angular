@@ -1,18 +1,18 @@
 import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
-  selector: 'app-list-titles',
-  templateUrl: './list-titles.component.html',
-  styleUrls: ['./list-titles.component.scss']
+	selector: 'app-list-titles',
+	templateUrl: './list-titles.component.html',
+	styleUrls: ['./list-titles.component.scss']
 })
 export class ListTitlesComponent implements OnInit {
 
-  @Input() title: string | undefined;
-  @Input()listTitles : any[]= [];
-  constructor() {
-   }
+	@Input() title: string | undefined;
+	@Input()listTitles : any[]= [];
+	constructor() {
+	 }
 
-  ngOnInit(): void {
-  }
-
+	ngOnInit(): void {
+	}
 }
+
