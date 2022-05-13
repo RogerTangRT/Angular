@@ -136,3 +136,9 @@ link vídeo:https://www.youtube.com/watch?v=hkIP4mElQic
 É necesário mutar o video ao iniciar
 
 https://stackoverflow.com/questions/49930680/how-to-handle-uncaught-in-promise-domexception-play-failed-because-the-use
+
+## 7 Angular Estilos com SCSS #07
+
+link vídeo:https://www.youtube.com/watch?v=cysd-4t0GCw
+
+Qual a diferença entre Sass, SCSS e CSS? Vamos neste vídeo além de convertermos nossos estilos CSS em SCSS do nosso Netflix Clone.
